@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Notícies Centre Educatiu</title>
+    <description>Notícies del centre educatiu per exemple.</description>
+    <language>ca</language>
+    <link>https://www.daniastoriWNews.com</link>
+    <item>
+      <title>Notícia 1</title>
+      <description>El CEIP per exemple ampliarà les places...</description>
+      <link>https://daniastoriWNews/noticia001</link>
+      <pubDate>Sun, 16 Feb 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notícia 2</title>
+      <description>El CEIP per exemple impartirà classes de...</description>
+      <link>https://daniastoriWNews/noticia001</link>
+      <pubDate>Sun, 16 Feb 2025 23:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
